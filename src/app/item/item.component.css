@@ -1,0 +1,58 @@
+.outOfStock{
+    border: 2px solid red;
+    background-color: red;
+    color: white;
+    padding: 10px;
+    border-radius: 25px;
+    display:inline-block;
+    
+}
+.stock{
+    border: 2px solid #E6E6E6;
+    background-color: #E6E6E6;
+    padding: 10px;
+    border-radius: 25px;
+    display:inline-block;
+}
+
+.b{
+    border: 2px solid #E6E6E6;
+    background-color: #E6E6E6;
+    padding: 10px;
+    border-radius: 25px;
+    display:inline-block;
+    margin-left: 1em;
+}
+img{
+    width:155px;
+    height:175px;
+}
+
+#desc{
+    font-size: 0.76em;
+    width: 20em;
+    height: 5em;
+    text-align: justify;
+        background-color: inherit;
+        border-style: none;
+}
+
+#delete{
+    margin-left: 1em;
+}
+
+input{
+    width: 12px;
+    text-align: center;
+}
+button{
+    border-radius: 5px;
+}
+
+button:hover{
+    background-color: rgb(250, 185, 185);
+}
+
+a{
+    text-decoration: none;
+}
